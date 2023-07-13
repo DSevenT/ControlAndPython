@@ -1,2 +1,2 @@
 # ControlAndPython
-Different functions and alorithms in control implemented in python
+Different functions and algorithms in control implemented in python
